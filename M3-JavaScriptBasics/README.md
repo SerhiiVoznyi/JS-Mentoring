@@ -1,3 +1,3 @@
 # [JavaScript Mentoring Program](../README.md)
 
-# 3 JavaScript Basics
+## 3 JavaScript Basics

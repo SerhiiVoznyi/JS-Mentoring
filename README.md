@@ -13,4 +13,3 @@ This course was created to help beginners to start working with JavaScript-based
 ### Module 2 - Working Environment (setup and configuration)
 
 ### Module 3 - JavaScript Basics
-
