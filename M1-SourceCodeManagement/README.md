@@ -73,7 +73,7 @@ SCM is an invaluable tool for modern software development. The best software tea
 4. Create specific folder for your repositories. For example '`C:\Development\Repositories`'.
 5. Clone remote repository to your working station. **[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)**.
 6. Create your working branch with the name `js-course-m1-`*your name*`-home-task`. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
-7. Modify this README.md file under folder **M1-SourceCodeManagement**. Add text to the end **`I done with all tasks`**.
+7. Modify this README.md file under folder **M1-SourceCodeManagement**. Add text to the end **`I have done all tasks`**.
 8. Commit your changes using your app or git command.
 9. Push your changes to remote repository.
 10. Create a pull request with your changes.
