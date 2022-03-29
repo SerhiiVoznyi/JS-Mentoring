@@ -77,3 +77,5 @@ SCM is an invaluable tool for modern software development. The best software tea
 8. Commit your changes using your app or git command.
 9. Push your changes to remote repository.
 10. Create a pull request with your changes.
+
+**`I have done all tasks`**
