@@ -10,6 +10,8 @@ This course was created to help beginners to start working with JavaScript-based
 
 ### Module 1 - [Source Code Management (SCM) Tools For Version Control](./M1-SourceCodeManagement/README.md)
 
-### Module 2 - Working Environment (setup and configuration)
+### Module 2 - [Working Environment (setup and configuration)](M2-WorkingEnvironmentSetup/README.md)
 
-### Module 3 - JavaScript Basics
+### Module 3 - [JavaScript - Basics](M3-JavaScriptBasics/README.md)
+
+### Module 4 - [Introduction to UML diagrams](M3-JavaScriptBasics/README.md)
