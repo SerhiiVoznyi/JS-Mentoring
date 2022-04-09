@@ -6,8 +6,8 @@
 
 An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
-- [ ] [What is IDE](https://www.youtube.com/watch?v=gr0xT1xnbTg)
-- [ ] [Best IDE Software](https://websitesetup.org/best-ide-software/)
+- [X] [What is IDE](https://www.youtube.com/watch?v=gr0xT1xnbTg)
+- [X] [Best IDE Software](https://websitesetup.org/best-ide-software/)
 
 **Task** Put `X` into spare brackets `[ ]` when you finish reading.
 
@@ -17,14 +17,14 @@ Visual Studio Code is a source-code editor that can be used with a variety of pr
 
 Out of the box, Visual Studio Code includes basic support for most common programming languages. This basic support includes syntax highlighting, bracket matching, code folding, and configurable snippets. Visual Studio Code also ships with IntelliSense for JavaScript, TypeScript, JSON, CSS, and HTML, as well as debugging support for Node.js. Support for additional languages can be provided by freely available extensions on the VS Code Marketplace.
 
-- [ ] [Visual Studio Code](https://code.visualstudio.com/)
-- [ ] [Instruction](https://code.visualstudio.com/docs/?dv=win64user)
+- [X] [Visual Studio Code](https://code.visualstudio.com/)
+- [X] [Instruction](https://code.visualstudio.com/docs/?dv=win64user)
 
 **Task** Put `X` into spare brackets `[ ]` when you finish reading.
 
-- [ ] Download and Install [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2).
-- [ ] Install [Visual Studio Code](https://code.visualstudio.com/Download) on your working station.
-- [ ] Read about and Install recommended extensions:
+- [X] Download and Install [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2).
+- [X] Install [Visual Studio Code](https://code.visualstudio.com/Download) on your working station.
+- [X] Read about and Install recommended extensions:
   - Material Theme
   - Material Theme Icons  
   - Rainbow Brackets
@@ -35,10 +35,11 @@ Out of the box, Visual Studio Code includes basic support for most common progra
   - Prettier - Code formatter
   - Jest Test Explorer for Visual Studio Code
   - Live Server
-- [ ] Download and Install [Nodejs](https://nodejs.org/en/download/).
-- [ ] In Visual Studio Code  open terminal from header `Terminal > New Terminal`
+- [X] Download and Install [Nodejs](https://nodejs.org/en/download/).
+- [X] In Visual Studio Code  open terminal from header `Terminal > New Terminal`
   - Run command `node -v`
   - Run command `npm -v`
 - [ ] Create your working branch with the name `js-course-m2-`*your name*`-home-task`. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
   - Make screenshot of VSC and add it into `.\M2-WorkingEnvironmentSetup\assets`.
   - Create new pull request.
+
