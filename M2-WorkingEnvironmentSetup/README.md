@@ -39,6 +39,6 @@ Out of the box, Visual Studio Code includes basic support for most common progra
 - [ ] In Visual Studio Code  open terminal from header `Terminal > New Terminal`
   - Run command `node -v`
   - Run command `npm -v`
-- [ ] Create your working branch with the name `js-course-m2-`*your name*`-home-task`. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+- [X] Create your working branch with the name `js-course-m2-`*your name*`-home-task`. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
   - Make screenshot of VSC and add it into `.\M2-WorkingEnvironmentSetup\assets`.
   - Create new pull request.
