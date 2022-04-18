@@ -12,6 +12,6 @@
 <script type="text/javascript"> 
     alert("This alert box was called with the onload event");
     function MyFunction() {
-        document.getElementById("home-task").innerHTML = Date();
+        document.getElementById("home-task").innerHTML = new Date().toLocaleString().replace(".",'-').replace(".",'-');
         }
 </script>
