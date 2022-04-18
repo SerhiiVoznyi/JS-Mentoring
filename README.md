@@ -14,4 +14,4 @@ This course was created to help beginners to start working with JavaScript-based
 
 ### Module 3 - [JavaScript - Basics](M3-JavaScriptBasics/README.md)
 
-### Module 4 - [Introduction to UML diagrams](M3-JavaScriptBasics/README.md)
+### Module 4 - [Introduction to UML diagrams](M4-IntroductionToUMLDiagrams/README.md)
