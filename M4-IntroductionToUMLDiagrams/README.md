@@ -6,4 +6,4 @@ UML, short for Unified Modeling Language, is a standardized modeling language co
 
 ## Materials to saved to the bookmarks
 
-- [UML - Overview](https://en.wikipedia.org/wiki/JavaScript](https://www.tutorialspoint.com/uml/uml_overview.htm)
+- [UML - Overview](https://www.tutorialspoint.com/uml/uml_overview.htm)
