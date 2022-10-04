@@ -4,7 +4,7 @@
 
 ## Warm-up Challenges
 
-[From here →](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
+[Arrays →](./ARRAYS.md)
 
 ___
 
@@ -42,23 +42,24 @@ The general idea is to group array by its values. In javascript there are no `gr
 
 function sockMerchant(n, ar) {
     // Define empty array for counts of values.
-    const counts = [];
+    const groups = [];
 
     // Using the 'reduce' function to update 'counts'.
-    ar.reduce((counts, value) => {
+    ar.reduce((groups, value) => {
         // This verification needed to set initial value of 0 to count. 
         // Otherwise we will have to sum undefined with a number, the result of such operation will be NaN - not a number.
-        if(counts[value] === undefined) {
-            counts[value] = 0;
+        if(groups[value] === undefined)
+        {
+            groups[value] = 0;
         }
         // Increasing count of particular value on 1.
-        counts[value] = counts[value] + 1;
+        groups[value] = groups[value] + 1;
         // Returning array of 'counts' as execution of 'reduce' function.
-        return counts;
-    }, counts);
+        return groups;
+    }, groups);
  
     // Using the 'reduce' to summarize all counts divided by 2 without fractional part.
-    return groups.reduce((partialSum, value) => partialSum + Math.trunc(value / 2), 0);
+   return groups.reduce((partialSum, value) => partialSum + Math.trunc(value / 2), 0);
 }
 
 ```
@@ -157,9 +158,9 @@ The second line contains a single string `path`, of `steps` characters that desc
 function countingValleys(steps, path) {
     let result = 0;
     let currentLevel = 0;
-    for (let letter of path) {
-        currentLevel += letter === 'D' ? -1 : 1;
-        if(currentLevel === 0 && letter === 'U') {
+    for (let step of path) {
+        currentLevel += step === 'D' ? -1 : 1;
+        if(currentLevel === 0 && step === 'U') {
             result += 1;
         }
     }

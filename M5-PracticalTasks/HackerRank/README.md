@@ -13,4 +13,5 @@ I would like to encourage you to try to solve all its challenges by yourself, bu
 
 ## Tasks Solutions
 
-[Warm-up Challenges](./InterviewPreparationKit/Warm-up%20Challenges.md)
+* [Warm-up Challenges](./InterviewPreparationKit/Warm-up%20Challenges.md) located [here](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges).
+* [Arrays](./InterviewPreparationKit/ARRAYS.md)
